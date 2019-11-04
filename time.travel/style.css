@@ -1,0 +1,47 @@
+body {
+	background-image: url("img/clock.gif");
+	background-size: 300px;
+	font-family: 'Lato', sans-serif;\
+	overflow-y: scroll;
+}
+#clock {
+	color:white;
+}
+
+
+.content {
+	font-family: 'Lato', sans-serif;
+	width:690px;
+	border-radius: 20px;
+	padding:5px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: rgb(102, 153, 255, 0.90);
+	align-items: center;
+	text-align:justify;
+	min-height:1000px;
+	-webkit-backdrop-filter: blur(10px);
+	backdrop-filter: blur(10px);
+}
+
+.para {
+	width:580px;
+}
+
+#menu {
+	background-color: rgb(102, 153, 255, 0.90);
+	width:690px;
+	margin-left: auto;
+	margin-right: auto;
+	padding:10px;
+	border-radius: 20px;
+	-webkit-backdrop-filter: blur(10px);
+	backdrop-filter: blur(10px);
+}
+
+.butt {
+	background-color: #1a66ff;
+	padding: 10px;
+	color: white;
+	border: none;
+}
